@@ -4,7 +4,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon 
                              http://www.w3.org/TR/pronunciation-lexicon/pronunciation-lexicon.xsd"
-         xml:lang="ar-AE">
+         xml:lang="en-US">
 
   <!-- Example: company name -->
   <lexeme>
@@ -40,3 +40,4 @@
   </lexeme>
 
 </lexicon>
+
